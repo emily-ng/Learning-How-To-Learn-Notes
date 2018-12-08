@@ -1,0 +1,206 @@
+Notes from the 'Learning How to Learn: Powerful mental tools to help you master tough subjects' MOOC on Coursera
+
+Focused Learning - pinball bounces along predefined path
+Diffused Learning - pinball bounces around all over, figuring out path
+
+Chunking - pieces of info, key ideas or actions, tied together through use and meaning
+	- Built through focused attention, understanding of basic ideas, and practice
+	- Strong library of chunks = diffuse mode can tie pieces together and create better intuition about 	solution
+	- Helps you think more efficiently, call easily pull into working memory
+	- More experience = bigger chunks
+	Ex. Learning a concept/chapter of a math textbook
+
+Recall - remembering without looking, testing yourself, one of best ways to chunk, try recalling in different settings/room so ideas you’ve learned are more accessible regardless of where you are
+
+Spaced repetition
+
+Transfer - A chunk that you’ve learned can help you learn chunks from other areas with surprising similarities 
+
+Overlearning - mastery of material, orders of magnitude higher, automatcity
+
+Deliberate practice - practice difficult material 
+
+Einstellung - previously developed mindset/pattern, makes finding other solutions more difficult, blocked/predefined thinking, misleading intuition or initial thought
+
+Interleaving - once you have basic ideas/chunks, go back and forward between techniques and problems in one session, learn how and WHEN to use chunks, helps you learn more deeply and creatively
+
+Illusions of competence - you think you know it…but you don’t! 
+	Practice mini-testing/recall to see if you’ve actually learned
+	Minimize highlighting, can fool you
+	Making mistakes is good - shows that you’re learning, memories of first time and of errors
+	Deliberate practice of hard material prevents illusions of competence
+
+
+Law of Serendipity - Lady Luck favors those who try! Pick one small thing to learn. Then another. And another…
+
+Serotonin - social life and risk-taking
+
+Dopamine - relates to reward
+
+Acetylcholine - focused attention and learning
+
+How to study/learn:
+* Chunk info
+* Recall
+* Interleave
+* Deliberate practice
+* Testing yourself
+
+*** 30 second review - Immediately after every meeting, lecture, significant experience, taking 30 seconds to jot down main ideas. Forces you to recall what’s important and create hooks, better listening.
+
+Octopus of attention - pull ideas together from your brain into working memory to create a chunk, doesn’t work well when you’re sad/angry/stressed
+
+Context is where top-down and bottom-up learning meet!
+
+Procrastination - temporary pleasure as reward, accumulates negative long-term effects
+
+Habit saves energy - zombie mode, no need to think
+
+Habit = Cue, routine, reward, belief
+
+Reward good study habits
+
+Temp negative feelings when starting task is normal - but you can change perspective and how you react to those feelings i.e. tell yourself you’ll feel better soon!
+
+Focus on process (doing the task) over product (completing task)
+
+Cue - location, time, how you feel, reactions
+
+Routine - automatic zombie pattern in reaction to a cue, use willpower (expensive/valuable, comes and goes) to override pattern to cue
+
+Reward - habits create near cravings, substitute the procrastination reward with something else, intentional reward
+
+Belief - have a community to remind yourself of values when you’re tired/weak and old habits seem comfortable
+
+Weekly goals
+	Daily goals the evening before - enlist zombies to help you and let your brain dwell on the tasks 	(small sized), save space in working memory the 	day of
+
+Delay rewards until you finish the task (worry-free reward!) and give yourself lots of rewards
+
+Watch out for procrastination cues
+
+Eat your frogs first
+
+Planning well is part of trying
+
+Memory - we have great memory for “where that was”, “what it looked like”
+	Useful for our ancestors to remember where food was or how to get back home, great capacity for general images instead of finer details
+
+If we use descriptive, vivid images that use lots of senses/feelings (Flying Mule Ass to remember f=ma) when we learn, it activates the visual part of our memory and helps us to remember it long term (goes from working memory to long-term).
+
+Randomly space out learning over - Anki is great for this
+	Ex. use index cards with funny/engaging pictures and review them for a few minutes each day, 	then week, etc
+
+Hippocampus - important for long-term memory
+	Patient HM removed his hippocampus, forgot skills and conversations after short period of time
+
+Consolidation(from short to long term memory, can take years) - Reactivation (memory become active) - Reconsolidation (can change memories, back to inactive state)
+
+Astrocytes - nutrients to neurons, take part in learning 
+
+Memorable sentences to memorize concepts
+	* Mnemonics 
+	* Memory palace - placing wild/vivid unrelated things in a familiar place in your mind -> remember up 	to  95% more things on a 40/50 item list 
+	* Exercise in creativity and connecting unrelated pieces for the future even as you’re acquiring 	chunks/bug picture - creates neural hooks for more creativity
+	* Memory tricks = more creativity, deeper understanding, shorter path to long-term memory
+
+
+
+	
+Package information and concepts in a box 
+
+You can get better at packaging bigger, more complex boxes with more experience
+ 
+You can tie together boxes to create “boxes” of boxes.
+
+Chunk -> box of connected bits of info through meaning, can be various sizes
+
+Working memory -> small shop front, can pull some chunks
+
+Long term memory -> huge warehouse/storage in the back, stores all your boxes (chunks), better engrained and familiar chunks get pulled out in the forefront of working memory/your shop faster because you “know where they are”
+
+
+How to be a better learner:
+* Get physical exercise, helps preserve new neurons and connections
+* New experiences and using new neurons helps you keep them
+
+* Learning takes time
+	Sometimes you will hit a wall or material that was clear becomes hard to understand because your brain is deeply re-structuring and grappling with material. After the temporary wall, you’ll take a leap forward in your understanding.
+
+* Lively metaphors/analogies = improve memory + understanding, place yourself in the concept and “feel” it visually and physically, models are imperfect and break down/don’t apply at some point so you can discard and swap as needed (scientific models are imperfect too) but they’ll help you learn and connect (ex cations are like “paws-itive” like cats)
+
+No Need For Genius Envy
+* Everyone has different natural gifts
+* Intelligence matters but so does being creative
+	Working on tough and difficult material can create mental patterns that lift the average into the “gifted” realm
+	
+* A larger than average working memory can work against you creatively because of Einstellung (fixed thought/idea in mind) instead of letting other ideas “peek through” from other parts of your brain
+
+* Smaller working memory/easily distracted can mean you can generalize learning into new and creative combinations and taking input from other parts of brain more easily. Might be more challenging to chunk but once chunked, you can use it in ways you didn’t think were possible.
+
+“Geniuses” and imposter syndrome
+Famous scientists like Nobel prize winner and Father of Neuroscience Santiago Cajal and Charles Darwin were not “geniuses” from birth. Cajal credits his perseverance.
+“What he called the virtue of the less brilliant, coupled with his flexible ability to change his mind and admit errors.”
+
+Learning with fresh eyes/mind on your own accord and taking control of your own learning is one of the most important things you can do in life.
+
+Take pride in who you are and use it to your success. Learn the ability to switch to a cool dispassion to focus on your learning and to tune people who want to bring you down (“noise”) out.
+
+
+Left Hemisphere of brain - grips tightly to the views of the world it has interpreted for us
+	Focused learning leans left but can become dogmatic and rigid, overconfidence can lead to mistakes and blindspots (“You are the easiest person to fool.”)
+
+Right Hemisphere of brain - sees big picture, more diffuse and questioning, leads to ah-ha moments, double-checking your work uses more of the right hemisphere
+
+Studying with studious friends/group can reduce blindspots in learning/what you know, brainstorm with people who are focused on the topic
+
+Test-taking is one of the best ways to learn - compare 1 hour of test taking vs 1 hour of studying material - much for retained by focused test-taking
+
+Richard Felder’s Test-taking checklist - Do whatever it takes to get them all to ‘yes’ to improve chances of success
+
+1. Did you make a serious effort to understand the text (not just hunting for examples)?
+2. Did you work with classmates on homework problems (or at least check answers)?
+3. Did you attempt to outline every homework problem solution (before working with classmates)?
+4. Did you participate in homework group discussions?
+5. Did you consult the instructor when you were having trouble with something?
+6. Did you understand all your homework problem solutions before handing them in?
+7. Did you ask in class for explanations of homework problems that weren’t clear to you?
+8. Did you have a study guide and were able to convince yourself that you could do everything on it?
+9. Did you attempt to outline lots solutions quickly without go over calculations?
+10. Did you go over the study guide/problems with classmates and quiz one another?
+11. Did you attend and participate in the review session if there was one?
+12. Did you get a reasonable night’s sleep before the test?
+
+
+Hard start, jump to easy
+
+Look over the test to get a sense of what’s being asked
+
+One test-taking technique is to start with hard problems. Work on them for a minute or two (focused mode). If you’re not making progress, switch to easier problems and makes as much progress as you can. Doing so activates your diffuse mode of thinking and prevents einstellung/being stuck on the wrong way of doing things. Once you’ve done as much as you can with the easy problem, try another hard problem. Sometimes you may be surprised that the answer comes to you easier than expected since your diffuse mode is creatively at work. 
+
+Remember, if you haven’t prepared well for the test ahead of time, all bets are off.
+
+Test-taking
+
+When you’re stressed, your body releases cortisol. How you react to those feelings/chemicals can improve performance while test-taking (afraid of test vs excited to do your best).
+
+When stressed, focus on breathing. Practice breathing techniques, breathing from belly, to calm fight or flight response
+
+Have a “plan B” should things not work out even when you’ve practiced and done your best on a test. This will help you achieve closer to your “plan A” knowing that you have an alternative plan or career.
+
+
+Instructional manual to your mind and the process of learning
+
+Passions can broaden, change, and grow
+
+Pomodoro -> process-focused
+ 
+
+
+
+
+
+
+
+
+
